@@ -1,1 +1,1 @@
-localHandler({"result":"我是远程js带来的数据"});
+flightHandler({"price":"5毛","tickets":"3分"});
