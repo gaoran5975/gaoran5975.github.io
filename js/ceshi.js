@@ -1,1 +1,1 @@
-flightHandler({"price":"5毛","tickets":"3分"});
+callback({"price":"5毛","tickets":"3分"});
